@@ -13,6 +13,27 @@
         "url": "https://ebay.us/imx8lV",
         "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/ebay.png",
         "tooltip": "Ebay"
+      },
+      {
+        "id": "gmail",
+        "name": "Gmail",
+        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/gmail.png",
+        "tooltip": "Gmail"
+      },
+      {
+        "id": "youtube",
+        "name": "Youtube",
+        "url": "https://www.youtube.com/",
+        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/youtube.png",
+        "tooltip": "Youtube"
+      },
+      {
+        "id": "whatsapp",
+        "name": "Whatsapp",
+        "url": "https://web.whatsapp.com/",
+        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/whatsapp.png",
+        "tooltip": "Whatsapp"
       }
     ],
     "settings": {
