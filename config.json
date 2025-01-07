@@ -1,21 +1,23 @@
 {
     "affiliateLinks": [
-        {
-            "name": "Gmail",
-            "url": "https://mail.google.com",
-            "icon": "img/icons/gmail.png"
-        },
-        {
-            "name": "YouTube",
-            "url": "https://youtube.com",
-            "icon": "img/icons/youtube.png"
-        },
-        {
-            "name": "WhatsApp",
-            "url": "https://web.whatsapp.com",
-            "icon": "img/icons/whatsapp.png"
-        }
+      {
+        "id": "amazon",
+        "name": "Amazon",
+        "url": "https://amzn.to/4j5XVQ0",
+        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/amazon.png",
+        "tooltip": "Amazon"
+      },
+      {
+        "id": "ebay",
+        "name": "Ebay",
+        "url": "https://ebay.us/imx8lV",
+        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/ebay.png",
+        "tooltip": "Ebay"
+      }
     ],
-    "version": "1.0.0",
-    "lastUpdate": "2024-01-20"
-} 
+    "settings": {
+      "buttonSize": "48px",
+      "containerPosition": "bottom-right",
+      "displayStyle": "horizontal"
+    }
+  }
