@@ -15,6 +15,13 @@
         "tooltip": "Ebay"
       },
       {
+        "id": "hotels",
+        "name": "Hotels",
+        "url": "https://www.tkqlhce.com/click-101330901-10433857?sid=hotels_tabflash",
+        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/hotels.png",
+        "tooltip": "Hotels"
+      },
+      {
         "id": "gmail",
         "name": "Gmail",
         "url": "https://mail.google.com/mail/u/0/#inbox",
@@ -27,18 +34,6 @@
         "url": "https://www.youtube.com/",
         "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/youtube.png",
         "tooltip": "Youtube"
-      },
-      {
-        "id": "whatsapp",
-        "name": "Whatsapp",
-        "url": "https://web.whatsapp.com/",
-        "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/whatsapp.png",
-        "tooltip": "Whatsapp"
       }
-    ],
-    "settings": {
-      "buttonSize": "48px",
-      "containerPosition": "bottom-right",
-      "displayStyle": "horizontal"
-    }
+    ]
   }
