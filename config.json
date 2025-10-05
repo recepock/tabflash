@@ -10,28 +10,28 @@
       {
         "id": "ebay",
         "name": "Ebay",
-        "url": "https://ebay.us/imx8lV",
+        "url": "https://tabflash.com/ebay",
         "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/ebay.png",
         "tooltip": "Ebay"
       },
       {
         "id": "temu",
         "name": "Temu",
-        "url": "https://temu.to/k/uclt8cl7f9j",
+        "url": "https://tabflash.com/temu",
         "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/temu.png",
         "tooltip": "Hotels"
       },
       {
         "id": "gmail",
         "name": "Gmail",
-        "url": "https://mail.google.com/mail/u/0/#inbox",
+        "url": "https://tabflash.com/gmail",
         "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/gmail.png",
         "tooltip": "Gmail"
       },
       {
         "id": "youtube",
         "name": "Youtube",
-        "url": "https://www.youtube.com/",
+        "url": "https://tabflash.com/youtube",
         "icon": "https://raw.githubusercontent.com/recepock/tabflash/main/img/affiliates/youtube.png",
         "tooltip": "Youtube"
       }
