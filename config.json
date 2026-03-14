@@ -42,13 +42,12 @@
       "name": "Escape Tsunami",
       "url": "https://tabflash.com/en/escape-tsunami-for-brainrots/",
       "image": "https://img.gamemonetize.com/bar5fayxivsh0l9rgri3sysz8jd0445w/512x512.jpg"
-      }
     },
     {
-      "id": "tetris",
-      "name": "Tetris",
-      "url": "https://tabflash.com/games/tetris?utm_source=tabflash_ext&utm_medium=newtab&utm_campaign=games",
-      "image": "https://raw.githubusercontent.com/recepock/tabflash/main/img/wallpapers/W2.jpg"
+      "id": "Car-Parkour-Challenge",
+      "name": "Car Parkour Challenge",
+      "url": "https://tabflash.com/games",
+      "image": "https://img.gamemonetize.com/ym2qhm2n7ceu7xmckpqtzocnxfewxgm9/512x384.jpg"
     },
     {
       "id": "flappy",
