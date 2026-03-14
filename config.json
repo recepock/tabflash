@@ -38,10 +38,10 @@
     ],
     "games": [
     {
-      "id": "2048",
-      "name": "2048",
-      "url": "https://tabflash.com/games/2048?utm_source=tabflash_ext&utm_medium=newtab&utm_campaign=games",
-      "image": "https://raw.githubusercontent.com/recepock/tabflash/main/img/wallpapers/W1.jpg"
+      "id": "Escape-Tsunami",
+      "name": "Escape Tsunami",
+      "url": "https://tabflash.com/en/escape-tsunami-for-brainrots/",
+      "image": "https://img.gamemonetize.com/bar5fayxivsh0l9rgri3sysz8jd0445w/512x512.jpg"
     },
     {
       "id": "tetris",
